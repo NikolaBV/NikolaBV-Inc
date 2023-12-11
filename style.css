@@ -71,3 +71,29 @@ button {
 #projects .projects {
   margin-bottom: 2rem;
 }
+#contact-me {
+  text-align: center;
+  background-color: #161a30;
+  color: white;
+}
+#contact-me h1 {
+  text-align: center;
+  color: white;
+}
+#contact-me ul {
+  list-style: none;
+}
+#contact-me ul li a i {
+  display: list-item;
+  color: white;
+}
+#contact-me ul li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+}
+#contact-me ul li {
+  padding-bottom: 2rem;
+}
+.fab {
+  font-weight: 400;
+}
