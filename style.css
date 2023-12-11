@@ -68,3 +68,6 @@ button {
 #about-me img {
   box-shadow: 15px 9px 19px #f0ece5;
 }
+#projects .projects {
+  margin-bottom: 2rem;
+}
