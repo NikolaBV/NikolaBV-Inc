@@ -42,25 +42,25 @@ button {
   max-width: 50%;
   border-radius: 50px !important;
 }
-#about-me .col {
+#introductionSection .col {
   justify-content: center;
   flex-direction: column;
   display: flex;
 }
-#about-me .img-col {
+#introductionSection .img-col {
   justify-content: flex-end;
   margin-top: 5rem;
 }
-#about-me img {
+#introductionSection img {
   max-width: 130% !important;
   width: 130%;
 }
-#about-me .card {
+#introductionSection .card {
   box-shadow: 11px 7px 16px #f0ece5;
   border: 0;
   text-align: center;
 }
-#about-me .icon {
+#introductionSection .icon {
   width: 60px;
   height: 60px;
   margin-bottom: 1.2rem;
